@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://jordidijkstra.github.io" target="blank">my portfolio</a><br>🌱 I’m currently learning REACT<br>
+🔭 I’m currently working on <a href="https://jordidijkstra.github.io" target="_blank">my portfolio</a><br>🌱 I’m currently learning REACT<br>
 
 
 ## 🌐 Socials:
