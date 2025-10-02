@@ -1,4 +1,7 @@
                                                                                
+# 💫 About Me:
+🔭 I’m currently working on <a href="https://jordidijkstra.github.io" target="_blank">my portfolio</a><br>🌱 I’m currently learning REACT<br>
+
                                    **          *        .                                                               
                               ***???******??**???????????*?                                                             
                            ??**????****+***********?**???????                                                           
@@ -76,9 +79,6 @@
             +;;;;;;;++;;;;++++;++*::;*+++++++++++++++++++++++++++++++++++++++++++**:::+?*++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
           ;;;;;;;;+++;;;;++++++++*;::+?+++++++++++++++++++++++++++++++++++++++++**;::;**+++;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
-
-# 💫 About Me:
-🔭 I’m currently working on <a href="https://jordidijkstra.github.io" target="_blank">my portfolio</a><br>🌱 I’m currently learning REACT<br>
 
 
 ## 🌐 Socials:
