@@ -1,6 +1,6 @@
                                                                                
 # 💫 About Me:
-🔭 I’m currently working on <a href="https://jordidijkstra.github.io" target="_blank">my portfolio</a><br>🌱 I’m currently learning REACT<br>
+🔭 I’m currently working on <a href="https://jordidijkstra.github.io" target="_blank">my portfolio</a> and a project called <a href="https://rideready-534028057415.europe-west1.run.app/" target="_blank">RideReady</a><br>🌱 I’m currently learning REACT<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jordidijkstra) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Jordi-Dijkstra) 
